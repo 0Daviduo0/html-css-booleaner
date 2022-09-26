@@ -8,12 +8,14 @@
 #Top {
     background-color: rgb(77, 161, 255);
     background-image: url(../img/pattern.png);
-    margin-bottom: 1%
+    margin-bottom: 1%;
 }
 
 #logo {
+    position: relative;
     width: 30%;
     height: 40%;
+    top: 12px;
 }
 
 #Titolo {

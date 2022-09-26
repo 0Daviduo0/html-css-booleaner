@@ -1,0 +1,19 @@
+/* Top */
+
+#Top {
+    background-color: rgb(77, 161, 255);
+    background-image: url(../img/pattern.png);
+}
+
+#logo {
+    width: 30%;
+    height: 40%;
+}
+
+#Titolo {
+    font-size: 450%;
+}
+
+#Sottotitolo {
+    color: grey;
+}

@@ -12,7 +12,7 @@
 }
 
 #Titolo {
-    font-size: 450%;
+    font-size: 240%;
     font-weight: bold;
 }
 
@@ -34,4 +34,12 @@
 
 #Sottotitolo_immagini {
     font-size: 80%;
+}
+
+#corpo {
+    font-size: 120%;
+}
+
+#Highlight {
+    background-color: yellow;
 }

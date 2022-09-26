@@ -3,6 +3,7 @@
 #Top {
     background-color: rgb(77, 161, 255);
     background-image: url(../img/pattern.png);
+    margin-bottom: 1%
 }
 
 #logo {
@@ -12,8 +13,16 @@
 
 #Titolo {
     font-size: 450%;
+    font-weight: bold;
 }
 
 #Sottotitolo {
+    font-size: 140%;
+}
+#Sottotitolo, #Data {
     color: grey;
+}
+
+#Nome_autore {
+    color: rgb(86, 192, 236);
 }

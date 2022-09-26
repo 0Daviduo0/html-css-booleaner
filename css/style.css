@@ -36,6 +36,9 @@
     font-size: 80%;
 }
 
+
+/* Corpo */
+
 #corpo {
     font-size: 120%;
 }
@@ -47,4 +50,15 @@
 #Lista {
     margin-top: 2%;
     margin-left: -20px;
+}
+
+/* Footer */
+
+#AD1 {
+    background-image: url(../img/monitor.jpg);
+    width: auto;
+}
+
+#AD2 {
+    background-image: url(../img/graph.jpg);
 }

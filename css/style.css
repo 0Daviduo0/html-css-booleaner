@@ -1,5 +1,8 @@
 /* all */
 
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 /* Top */
 
 #Top {
@@ -52,6 +55,16 @@
 #Lista {
     margin-top: 2%;
     margin-left: -20px;
+}
+
+/* Tabella */
+
+#Table_top {
+    background-color: rgb(26, 170, 230);
+}
+
+#Table_1, #Table_3 {
+    background-color: rgb(178, 230, 242);
 }
 
 /* Footer */

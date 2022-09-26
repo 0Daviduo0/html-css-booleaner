@@ -1,3 +1,5 @@
+/* all */
+
 /* Top */
 
 #Top {
@@ -55,10 +57,25 @@
 /* Footer */
 
 #AD1 {
-    background-image: url(../img/monitor.jpg);
-    width: auto;
+    position: relative;
+}
+
+#monitor_text {
+    position: absolute;
+    color: white;
+    top: 11px;
+    left: 10px;
+    font-size: 25px;
 }
 
 #AD2 {
-    background-image: url(../img/graph.jpg);
+    position: relative;
+}
+
+#graph_text {
+    position: absolute;
+    color: white;
+    top: 11px;
+    left: 10px;
+    font-size: 25px;
 }

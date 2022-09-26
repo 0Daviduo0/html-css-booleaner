@@ -61,6 +61,14 @@
 
 /* Tabella */
 
+#sus {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 15px 0;
+    padding-right: 100px;
+}
 #Table_top {
     background-color: rgb(26, 170, 230);
 }

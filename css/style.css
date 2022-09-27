@@ -9,6 +9,7 @@
     background-color: rgb(77, 161, 255);
     background-image: url(../img/pattern.png);
     margin-bottom: 1%;
+    background-size: contain;
 }
 
 #logo {
@@ -46,7 +47,7 @@
 
 /* Corpo */
 
-#corpo {
+.corpo {
     font-size: 120%;
 }
 
@@ -57,16 +58,17 @@
 #Lista {
     margin-top: 2%;
     margin-left: -20px;
+    font-size: 110%
 }
 
 /* Tabella */
 
-#sus {
+.Tabella {
     border-collapse: collapse;
 }
 
 td {
-    padding: 15px 0;
+    padding: 15px ;
     padding-right: 100px;
 }
 #Table_top {
@@ -77,7 +79,17 @@ td {
     background-color: rgb(178, 230, 242);
 }
 
+/* Bottom */
+
+.Bottom {
+    font-size: 120%;
+}
+
 /* Footer */
+
+#ADV_text {
+    color: grey;
+}
 
 #AD1 {
     position: relative;

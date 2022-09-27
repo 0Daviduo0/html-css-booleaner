@@ -35,12 +35,12 @@
     color: rgb(86, 192, 236);
 }
 
-#Immagini_pre-corpo {
+.Immagini_pre-corpo {
     margin-top: 1%;
     
 }
 
-#Sottotitolo_immagini {
+.Sottotitolo_immagini {
     font-size: 80%;
 }
 
@@ -51,11 +51,11 @@
     font-size: 120%;
 }
 
-#Highlight {
+.Highlight {
     background-color: yellow;
 }
 
-#Lista {
+.Lista {
     margin-top: 2%;
     margin-left: -20px;
     font-size: 110%
@@ -75,7 +75,7 @@ td {
     background-color: rgb(26, 170, 230);
 }
 
-#Table_1, #Table_3 {
+.Table_Colored {
     background-color: rgb(178, 230, 242);
 }
 
@@ -87,11 +87,11 @@ td {
 
 /* Footer */
 
-#ADV_text {
+.ADV_text {
     color: grey;
 }
 
-#AD1 {
+.AD {
     position: relative;
 }
 
@@ -101,10 +101,6 @@ td {
     top: 11px;
     left: 10px;
     font-size: 25px;
-}
-
-#AD2 {
-    position: relative;
 }
 
 #graph_text {

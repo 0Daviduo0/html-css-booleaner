@@ -5,7 +5,7 @@
 }
 /* Top */
 
-#Top {
+.Top {
     background-color: rgb(77, 161, 255);
     background-image: url(../img/pattern.png);
     margin-bottom: 1%;
